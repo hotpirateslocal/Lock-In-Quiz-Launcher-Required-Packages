@@ -11,3 +11,7 @@ This repository is the delivery location used by Launcher. It is not the normal 
 Offline use remains available indefinitely after installation, unless Launcher already knows a required update is pending. A direct package download does not bypass update checks or Launcher requirements.
 
 The files are publicly accessible so Launcher can retrieve them without an account. Public availability does not make them standalone applications. This repository contains no application source or user saves.
+
+## Locations and moves
+
+Launcher 1.0.4 adds a gear next to Download/Open for app-specific download folders, installation moves and same-computer Quiz data moves. Global defaults are in Settings. Close Quiz before moving it. Progress stays tied to this computer and account.

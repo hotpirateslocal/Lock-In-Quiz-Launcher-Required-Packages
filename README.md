@@ -1,3 +1,5 @@
+> **Windows update:** Launcher 1.0.6 / Quiz 1.0.5 fixes Launcher installations on another drive. [Install Windows Launcher 1.0.6 once](https://github.com/hotpirateslocal/Lock-In-Quiz-Releases/releases/download/v1.0.6/LockInLauncher-Setup-1.0.6.exe) to switch to the Windows update feed. Future Windows updates use the sidebar button. Mac downloads below remain unchanged.
+
 # Launcher required — Quiz installation packages
 
 > **These files are NOT standalone app downloads. Downloading a package alone does not give you a usable Quiz. The latest Lock In Launcher is required to install and start Lock In Quiz.**
